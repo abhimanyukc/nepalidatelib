@@ -1,6 +1,6 @@
 {
   "name": "hamrosamaye",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "A library to get current Gregorian date and convert it to Nepali date",
   "main": "index.js",
   "scripts": {
